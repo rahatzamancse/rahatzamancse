@@ -1,13 +1,12 @@
 <!-- # [![Rahat Zaman header](./images/header-banner.jpg)](https://rahatzamancse.netlify.app) -->
 
-
 # Rahat Zaman - [rahatzamancse.me](https://rahatzamancse.netlify.app) 👋
 
-<a href="https://www.linkedin.com/in/rahatzamancse/"><img align="right" height="30" src="./images/icons/linkedin.png"></a>
-<a href="https://www.facebook.com/rahatzamancse/"><img align="right" height="30" src="./images/icons/facebook.png"></a>
-<a href="https://scholar.google.com/citations?user=rHs9-BQAAAAJ&hl=en"><img align="right" height="30" src="./images/icons/scholar.png"></a>
-<a href="https://medium.com/@rahatzamancse"><img align="right" height="30" src="./images/icons/medium.png"></a>
-<a href="https://stackoverflow.com/users/6452525/rahat-zaman"><img align="right" height="30" src="./images/icons/stackoverflow.png"></a>
+<a href="https://www.linkedin.com/in/rahatzamancse/"><img align="right" height="30" src="https://img.icons8.com/dusk/30/000000/linkedin.png"></a>
+<a href="https://www.facebook.com/rahatzamancse/"><img align="right" height="30" src="https://img.icons8.com/dusk/30/000000/facebook.png"></a>
+<a href="https://scholar.google.com/citations?user=rHs9-BQAAAAJ&hl=en"><img align="right" height="30" src="https://img.icons8.com/color/30/000000/google-scholar--v3.png"></a>
+<a href="https://medium.com/@rahatzamancse"><img align="right" height="30" src="https://img.icons8.com/color/30/000000/medium-monogram.png"></a>
+<a href="https://stackoverflow.com/users/6452525/rahat-zaman"><img align="right" height="30" src="https://img.icons8.com/color/30/000000/stackoverflow.png"></a>
 
 ## TL;DR
 - 🔭 I’m currently an **intern at Ultra-X Asia Pacific**.
@@ -17,18 +16,22 @@
 - 💬 Ask me about anything by mail (**rahatzamancse@gmail.com**) [or any social media you want].
 - 🤣 Fun fact: I once wanted to be a game developer.
 
-_Find my blog posts on my website 💁🏻 [rahatzamancse.me](https://rahatzamancse.netlify.app)_
-<!-- The following is the list of the latest articles on my blog:
+
+<details>
+<summary>
+<strong>Peek some of my blog posts on my website 💁🏻 <a href="https://rahatzamancse.netlify.app">rahatzamancse.me</a></strong>
+</summary>
 
 1. << Here should be my blog posts titles >>
 1. << Here should be my blog posts titles >>
-1. << Here should be my blog posts titles >> -->
+1. << Here should be my blog posts titles >>
 
+</details>
 <br>
 
 <p align='center'>
 <img height="74" src="./images/about-me.gif?raw=true"><br>
-🇺🇸Hi | 🇧🇩শুভ দিবা | 🇯🇵こんにちは
+<strong>🇺🇸Hi | 🇧🇩শুভ দিবা | 🇯🇵こんにちは</strong>
 </p>
 
 I am Rahat Zaman. I consider myself a Software Engineer and a Machine Learning Developer.
