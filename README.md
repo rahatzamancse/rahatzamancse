@@ -33,6 +33,11 @@
 </summary>
 
 <!-- STACKOVERFLOW-LIST:START -->
+- [Using `QApplication` in pyqt5 prevents from calling function from python module written in C++ [closed]](https://stackoverflow.com/questions/63433694/using-qapplication-in-pyqt5-prevents-from-calling-function-from-python-module)
+- [Answer by Rahat Zaman for cv2: [ WARN:0] global cap_msmf.cpp (674) SourceReaderCB::~SourceReaderCB terminating async callback](https://stackoverflow.com/questions/60007427/cv2-warn0-global-cap-msmf-cpp-674-sourcereadercbsourcereadercb-termina/63423961#63423961)
+- [Cannot update member variable inside for loop of method in c++ class](https://stackoverflow.com/questions/61299924/cannot-update-member-variable-inside-for-loop-of-method-in-c-class)
+- [How to manually trigger client side form validation in django with JS/JQuery?](https://stackoverflow.com/questions/60862753/how-to-manually-trigger-client-side-form-validation-in-django-with-js-jquery)
+- [How to use specifice blocks from another html file in Django template?](https://stackoverflow.com/questions/60796259/how-to-use-specifice-blocks-from-another-html-file-in-django-template)
 <!-- STACKOVERFLOW-LIST:END -->
 
 </details>
