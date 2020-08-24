@@ -23,7 +23,7 @@
 <details>
 <summary>
 <img align="right" src="https://github.com/rahatzamancse/rahatzamancse/workflows/Blog%20Workflow/badge.svg?branch=master">
-<strong>Peek some of my blog posts on my website 💁🏻 <a href="https://rahatzamancse.netlify.app">rahatzamancse.me</a></strong>
+<strong>Peek on some of my blog posts on my website 💁🏻 <a href="https://rahatzamancse.netlify.app">rahatzamancse.me</a></strong>
 </summary>
 
 <!-- BLOG-POST-LIST:START -->
@@ -38,8 +38,11 @@
 <details>
 <summary>
 <img align="right" src="https://github.com/rahatzamancse/rahatzamancse/workflows/SO%20Workflow/badge.svg?branch=master">
-<strong>Peek some of my activity on Stack Overflow 💁🏻 <a href="https://stackoverflow.com/users/6452525/rahat-zaman">rahat-zaman</a></strong>
+<strong>Laugh at some of my recent Stack Overflow activities 🐅 <a href="https://stackoverflow.com/users/6452525/rahat-zaman">rahat-zaman</a></strong>
 </summary>
+
+<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=6452525&layout=compact">
+
 
 <!-- STACKOVERFLOW-LIST:START -->
 - [Using `QApplication` in pyqt5 prevents from calling function from python module written in C++ [closed]](https://stackoverflow.com/questions/63433694/using-qapplication-in-pyqt5-prevents-from-calling-function-from-python-module)
