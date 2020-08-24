@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **[AForge.NET](http://www.aforgenet.com/framework/) (A computer vision .NET library)**.
 - 🤔 I’m looking for help with **admission on PhD program at USA**.
 - 👯 I’m looking to collaborate on **Machine Learning applications on Linux**.
-- 💬 Ask me about anything by mail (**rahatzamancse@gmail.com**) [or any social media you want].
+- 💬 Ask me about anything by mail **rahatzamancse@gmail.com** (or any social media you want).
 - 🤣 Fun fact: I once wanted to be a game developer.
 
 
@@ -23,15 +23,24 @@
 <strong>Peek some of my blog posts on my website 💁🏻 <a href="https://rahatzamancse.netlify.app">rahatzamancse.me</a></strong>
 </summary>
 
-1. << Here should be my blog posts titles >>
-1. << Here should be my blog posts titles >>
-1. << Here should be my blog posts titles >>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </details>
-<br>
+<details>
+<summary>
+<strong>Peek some of my activity on Stack Overflow 💁🏻 <a href="https://stackoverflow.com/users/6452525/rahat-zaman">rahat-zaman</a></strong>
+</summary>
+
+<!-- STACKOVERFLOW-LIST:START -->
+<!-- STACKOVERFLOW-LIST:END -->
+
+</details>
+
+---
 
 <p align='center'>
-<img height="74" src="./images/about-me.gif?raw=true"><br>
+<img src="https://raw.githubusercontent.com/rahatzamancse/rahatzamancse/master/images/about-me.gif"><br>
 <strong>🇺🇸Hi | 🇧🇩শুভ দিবা | 🇯🇵こんにちは</strong>
 </p>
 
@@ -39,9 +48,18 @@ I am Rahat Zaman. I consider myself a Software Engineer and a Machine Learning D
 
 I've been doing software since I was a child, I love to learn about how things work and simplify things with technology. Now I'm experimenting with Machine Learning and Deep Learning. I love to share time with developer communities and events.
 
+---
+
 # Skills
 | Languages  | Frameworks |
 | ---------- | ---------- |
 | ![Python](https://img.shields.io/static/v1?label=Python&message=6%20years&color=red&style=flat&logo=python) ![C++](https://img.shields.io/static/v1?label=C%2B%2B&message=5%20years&color=red&style=flat&logo=c%2B%2B) ![Bash](https://img.shields.io/static/v1?label=Bash&message=4%20years&color=green&style=flat&logo=gnu-bash) ![Java](https://img.shields.io/static/v1?label=Java&message=3%20years&color=red&style=flat&logo=java) ![Javascript](https://img.shields.io/static/v1?label=JS&message=4%20years&color=green&style=flat&logo=javascript) ![HTML](https://img.shields.io/static/v1?label=HTML&message=5%20years&color=7375CD&style=flat&logo=html5) ![CSS](https://img.shields.io/static/v1?label=CSS&message=5%20years&color=7375CD&style=flat&logo=css3)  | ![Keras](https://img.shields.io/static/v1?label=Keras&message=3%20years&color=orange&style=flat&logo=keras) ![OpenCV](https://img.shields.io/static/v1?label=OpenCV&message=3.5%20years&color=orange&style=flat&logo=opencv) ![SciKit-Learn](https://img.shields.io/static/v1?label=SciKit-Learn&message=2.5%20years&color=orange&style=flat&logo=tensorflow) ![PyQt](https://img.shields.io/static/v1?label=PyQt&message=4%20years&color=blue&style=flat&logo=qt) ![Django](https://img.shields.io/static/v1?label=Django&message=4%20years&color=blue&style=flat&logo=django) ![TensorFlow](https://img.shields.io/static/v1?label=TF&message=1.5%20years&color=orange&style=flat&logo=tensorflow) ![Android](https://img.shields.io/static/v1?label=Android&message=1%20years&color=blue&style=flat&logo=android) ![JQuery](https://img.shields.io/static/v1?label=JQuery&message=3%20years&color=purple&style=flat&logo=jquery) ![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=5%20years&color=purple&style=flat&logo=bootstrap)  |
+
+---
+
+## GitHub stats
+![Rahat's github stats](https://github-readme-stats.vercel.app/api?username=rahatzamancse&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)
+![Rahat's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahatzamancse&hide=css,html,javascript&card_width=240)
+
 
 <!-- # [![Rahat Zaman footer](./images/footer-banner.jpg)](https://rahatzamancse.netlify.app) -->
