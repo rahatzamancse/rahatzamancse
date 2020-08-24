@@ -1,4 +1,4 @@
-name: Latest stack overflow workflow
+name: SO Workflow
 on:
   schedule:
     # Runs every hour

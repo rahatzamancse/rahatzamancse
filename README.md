@@ -1,5 +1,7 @@
 <!-- # [![Rahat Zaman header](./images/header-banner.jpg)](https://rahatzamancse.netlify.app) -->
 
+<a href="https://rahatzamancse.netlify.app"><img align="right" src="https://img.shields.io/website-up-down-green-red/https/rahatzamancse.me?style=for-the-badge&logo=website"></a>
+
 # Rahat Zaman - [rahatzamancse.me](https://rahatzamancse.netlify.app) <img src="https://raw.githubusercontent.com/rahatzamancse/rahatzamancse/master/images/animated-emoji/wave.gif" width="30px">
 
 
@@ -20,6 +22,7 @@
 
 <details>
 <summary>
+<img align="right" src="https://github.com/rahatzamancse/rahatzamancse/workflows/Blog%20Workflow/badge.svg?branch=master">
 <strong>Peek some of my blog posts on my website 💁🏻 <a href="https://rahatzamancse.netlify.app">rahatzamancse.me</a></strong>
 </summary>
 
@@ -29,6 +32,7 @@
 </details>
 <details>
 <summary>
+<img align="right" src="https://github.com/rahatzamancse/rahatzamancse/workflows/SO%20Workflow/badge.svg?branch=master">
 <strong>Peek some of my activity on Stack Overflow 💁🏻 <a href="https://stackoverflow.com/users/6452525/rahat-zaman">rahat-zaman</a></strong>
 </summary>
 
@@ -55,12 +59,14 @@ I've been doing software since I was a child, I love to learn about how things w
 
 ---
 
-# Skills
+## Skills
 | Languages  | Frameworks |
 | ---------- | ---------- |
 | ![Python](https://img.shields.io/static/v1?label=Python&message=6%20years&color=red&style=flat&logo=python) ![C++](https://img.shields.io/static/v1?label=C%2B%2B&message=5%20years&color=red&style=flat&logo=c%2B%2B) ![Bash](https://img.shields.io/static/v1?label=Bash&message=4%20years&color=green&style=flat&logo=gnu-bash) ![Java](https://img.shields.io/static/v1?label=Java&message=3%20years&color=red&style=flat&logo=java) ![Javascript](https://img.shields.io/static/v1?label=JS&message=4%20years&color=green&style=flat&logo=javascript) ![HTML](https://img.shields.io/static/v1?label=HTML&message=5%20years&color=7375CD&style=flat&logo=html5) ![CSS](https://img.shields.io/static/v1?label=CSS&message=5%20years&color=7375CD&style=flat&logo=css3)  | ![Keras](https://img.shields.io/static/v1?label=Keras&message=3%20years&color=orange&style=flat&logo=keras) ![OpenCV](https://img.shields.io/static/v1?label=OpenCV&message=3.5%20years&color=orange&style=flat&logo=opencv) ![SciKit-Learn](https://img.shields.io/static/v1?label=SciKit-Learn&message=2.5%20years&color=orange&style=flat&logo=tensorflow) ![PyQt](https://img.shields.io/static/v1?label=PyQt&message=4%20years&color=blue&style=flat&logo=qt) ![Django](https://img.shields.io/static/v1?label=Django&message=4%20years&color=blue&style=flat&logo=django) ![TensorFlow](https://img.shields.io/static/v1?label=TF&message=1.5%20years&color=orange&style=flat&logo=tensorflow) ![Android](https://img.shields.io/static/v1?label=Android&message=1%20years&color=blue&style=flat&logo=android) ![JQuery](https://img.shields.io/static/v1?label=JQuery&message=3%20years&color=purple&style=flat&logo=jquery) ![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=5%20years&color=purple&style=flat&logo=bootstrap)  |
 
 ---
+
+<img align="right" src="https://enfsldxoebui1ex.m.pipedream.net">
 
 ## GitHub stats
 ![Rahat's github stats](https://github-readme-stats.vercel.app/api?username=rahatzamancse&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)
