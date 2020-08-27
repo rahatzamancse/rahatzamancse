@@ -23,8 +23,9 @@
 <details>
 <summary>
 <img align="right" src="https://github.com/rahatzamancse/rahatzamancse/workflows/Blog%20Workflow/badge.svg?branch=master">
-<strong>Peek on some of my blog posts on my website 💁🏻 <a href="https://rahatzamancse.netlify.app">rahatzamancse.me</a></strong>
+<strong>Click here and Peek on the latest 5 blog posts</strong>
 </summary>
+💁🏻 <a href="https://rahatzamancse.netlify.app">rahatzamancse.me</a>
 
 <!-- BLOG-POST-LIST:START -->
 - [You Can Make Anything With Rofi](https://rahatzamancse.netlify.app/en/posts/you-can-make-anything-with-rofi/)
@@ -38,9 +39,9 @@
 <details>
 <summary>
 <img align="right" src="https://github.com/rahatzamancse/rahatzamancse/workflows/SO%20Workflow/badge.svg?branch=master">
-<strong>Laugh at some of my recent Stack Overflow activities 🐅 <a href="https://stackoverflow.com/users/6452525/rahat-zaman">rahat-zaman</a></strong>
+<strong>Click here and Laugh at my last 5 activities on Stack Overflow</strong>
 </summary>
-
+🐅 <a href="https://stackoverflow.com/users/6452525/rahat-zaman">rahat-zaman</a>
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=6452525&layout=compact">
 
 
