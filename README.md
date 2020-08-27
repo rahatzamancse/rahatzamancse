@@ -81,4 +81,11 @@ I've been doing software since I was a child, I love to learn about how things w
 ![Rahat's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahatzamancse&hide=css,html,javascript&card_width=240)
 
 
+## Want to play chess right in my GitHub? 🔥♟👑♟🔥
+
+Here is the current state board! **Give your move in [my github repository](https://github.com/rahatzamancse/github-chess)!**
+
+[![Chess Board](https://raw.githubusercontent.com/rahatzamancse/github-chess/master/renders/board.jpg)](https://github.com/rahatzamancse/github-chess)
+
+
 <!-- # [![Rahat Zaman footer](./images/footer-banner.jpg)](https://rahatzamancse.netlify.app) -->
