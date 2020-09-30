@@ -46,11 +46,11 @@
 
 
 <!-- STACKOVERFLOW-LIST:START -->
+- [Firefox(headless)+selenium cannot access internet from docker container](https://stackoverflow.com/questions/64118544/firefoxheadlessselenium-cannot-access-internet-from-docker-container)
 - [In scrapy+selenium, how to make a spider request to wait until previous request has finished processing?](https://stackoverflow.com/questions/63988140/in-scrapyselenium-how-to-make-a-spider-request-to-wait-until-previous-request)
 - [Answer by Rahat Zaman for cv2: [ WARN:0] global cap_msmf.cpp (674) SourceReaderCB::~SourceReaderCB terminating async callback](https://stackoverflow.com/questions/60007427/cv2-warn0-global-cap-msmf-cpp-674-sourcereadercbsourcereadercb-termina/63423961#63423961)
 - [Cannot update member variable inside for loop of method in c++ class](https://stackoverflow.com/questions/61299924/cannot-update-member-variable-inside-for-loop-of-method-in-c-class)
 - [How to manually trigger client side form validation in django with JS/JQuery?](https://stackoverflow.com/questions/60862753/how-to-manually-trigger-client-side-form-validation-in-django-with-js-jquery)
-- [How to use specifice blocks from another html file in Django template?](https://stackoverflow.com/questions/60796259/how-to-use-specifice-blocks-from-another-html-file-in-django-template)
 <!-- STACKOVERFLOW-LIST:END -->
 
 </details>
