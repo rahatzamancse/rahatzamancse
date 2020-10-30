@@ -28,11 +28,11 @@
 💁🏻 <a href="https://rahatzamancse.netlify.app">rahatzamancse.me</a>
 
 <!-- BLOG-POST-LIST:START -->
-- [You Can Make Anything With Rofi](https://rahatzamancse.netlify.app/en/posts/you-can-make-anything-with-rofi/)
-- [Some Notes About SXHKD](https://rahatzamancse.netlify.app/en/posts/some-notes-about-sxhkd/)
-- [My Polybar Tips and Tricks](https://rahatzamancse.netlify.app/en/posts/my-polybar-tips-and-tricks/)
-- [Switching from VIM to NeoVIM](https://rahatzamancse.netlify.app/en/posts/switching-to-nvim/)
-- [My 3 Repo went to 2020 Arctic Vault](https://rahatzamancse.netlify.app/en/posts/github-archive-program/)
+- [You Can Make Anything With Rofi](https://rahatzamancse.me/en/posts/you-can-make-anything-with-rofi/)
+- [Some Notes About SXHKD](https://rahatzamancse.me/en/posts/some-notes-about-sxhkd/)
+- [My Polybar Tips and Tricks](https://rahatzamancse.me/en/posts/my-polybar-tips-and-tricks/)
+- [Switching from VIM to NeoVIM](https://rahatzamancse.me/en/posts/switching-to-nvim/)
+- [My 3 Repo went to 2020 Arctic Vault](https://rahatzamancse.me/en/posts/github-archive-program/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
