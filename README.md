@@ -12,11 +12,11 @@
 <a href="https://stackoverflow.com/users/6452525/rahat-zaman"><img align="right" height="30" src="https://img.icons8.com/color/30/000000/stackoverflow.png"></a>
 
 ## TL;DR
-- 🔭 I’m currently an **intern at Ultra-X Asia Pacific**.
-- 🌱 I’m currently learning **[AForge.NET](http://www.aforgenet.com/framework/) (A computer vision .NET library)**.
-- 🤔 I’m looking for help with **admission on PhD program at USA**.
-- 👯 I’m looking to collaborate on **Machine Learning applications on Linux**.
-- 💬 Ask me about anything by mail **rahatzamancse@gmail.com** (or any social media you want).
+- 🔭 I’m currently an **R&D Intern at Ultra-X Asia Pacific**.
+- 🌱 I’m currently learning **[Multi-Perspective Simultanious embedding with GAN](https://mpse.netlify.app/hello-bye.html)**.
+- 🤔 I’m looking for help with **Developing GAN for point-cloud like PointNet in Tensorflow**.
+- 👯 I’m looking to collaborate on **Data Visualization with Machine Learning**.
+- 💬 Ask me about anything by mail **[rahatzamancse@gmail.com](mailto:rahatzamancse@gmail.com)** (or any social media you want).
 - 🤣 Fun fact: I once wanted to be a game developer.
 
 
