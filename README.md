@@ -50,7 +50,7 @@
 - [Answer by Rahat Zaman for Python Display OpenCV Video Windows 10 With Correct Device Name](https://stackoverflow.com/questions/55737801/python-display-opencv-video-windows-10-with-correct-device-name/64254214#64254214)
 - [Hide camera device name from windows applications with MS Media Foundation?](https://stackoverflow.com/questions/64254177/hide-camera-device-name-from-windows-applications-with-ms-media-foundation)
 - [Answer by Rahat Zaman for How to get camera device name in OpenCV?](https://stackoverflow.com/questions/51940758/how-to-get-camera-device-name-in-opencv/64254074#64254074)
-- [Firefox(headless)+selenium cannot access internet from docker container](https://stackoverflow.com/questions/64118544/firefoxheadlessselenium-cannot-access-internet-from-docker-container)
+- [Firefox&lpar;headless&rpar;+selenium cannot access internet from docker container](https://stackoverflow.com/questions/64118544/firefoxheadlessselenium-cannot-access-internet-from-docker-container)
 <!-- STACKOVERFLOW-LIST:END -->
 
 </details>
