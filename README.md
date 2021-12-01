@@ -46,11 +46,11 @@
 
 
 <!-- STACKOVERFLOW-LIST:START -->
+- [Display hover when clicked instead of hovering over a datapoint in plotly python?](https://stackoverflow.com/questions/70173061/display-hover-when-clicked-instead-of-hovering-over-a-datapoint-in-plotly-python)
 - [How to reset zoom.transform after zooming without reseting selections in D3?](https://stackoverflow.com/questions/70025602/how-to-reset-zoom-transform-after-zooming-without-reseting-selections-in-d3)
 - [How to align two Point Clouds given the set of points and point-to-point correspondence?](https://stackoverflow.com/questions/69819086/how-to-align-two-point-clouds-given-the-set-of-points-and-point-to-point-corresp)
 - [Answer by Rahat Zaman for Python Display OpenCV Video Windows 10 With Correct Device Name](https://stackoverflow.com/questions/55737801/python-display-opencv-video-windows-10-with-correct-device-name/64254214#64254214)
 - [Hide camera device name from windows applications with MS Media Foundation?](https://stackoverflow.com/questions/64254177/hide-camera-device-name-from-windows-applications-with-ms-media-foundation)
-- [Answer by Rahat Zaman for How to get camera device name in OpenCV?](https://stackoverflow.com/questions/51940758/how-to-get-camera-device-name-in-opencv/64254074#64254074)
 <!-- STACKOVERFLOW-LIST:END -->
 
 </details>
