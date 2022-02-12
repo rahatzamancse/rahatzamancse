@@ -12,7 +12,7 @@
 <a href="https://stackoverflow.com/users/6452525/rahat-zaman"><img align="right" height="30" src="https://img.icons8.com/color/30/000000/stackoverflow.png"></a>
 
 ## TL;DR
-- 🔭 I’m currently an **Graduate Research Assistant at University of Arizona**.
+- 🔭 I’m currently a **Graduate Research Assistant and PhD student at University of Arizona**.
 - 🌱 I’m currently learning **[Multi-Perspective Simultanious embedding with GAN](https://mpse.netlify.app/hello-bye.html)**.
 - 🤔 I’m looking for help with **Developing GAN for point-cloud like PointNet in Tensorflow**.
 - 👯 I’m looking to collaborate on **Data Visualization with Machine Learning**.
@@ -62,7 +62,7 @@
 <strong>🇺🇸Hi | 🇧🇩শুভ দিবা | 🇯🇵こんにちは</strong>
 </p>
 
-I am Rahat Zaman. I am a Software Engineer and a Machine Learning Developer.
+I am Rahat Zaman. I am a Researcher and a Machine Learning Developer.
 
 I've been doing software since I was a child, I love to learn about how things work and simplify things with technology. Now I'm experimenting with Machine Learning and Deep Learning. I love to share time with developer communities and events.
 
