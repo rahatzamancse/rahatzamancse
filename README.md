@@ -1,6 +1,6 @@
-<a href="https://rahatzamancse.netlify.app"><img align="right" src="https://img.shields.io/website-up-down-green-red/https/rahatzamancse.netlify.app?style=for-the-badge&logo=website"></a>
+<a href="https://rahatzaman.me"><img align="right" src="https://img.shields.io/website-up-down-green-red/https/rahatzaman.me?style=for-the-badge&logo=website"></a>
 
-# Rahat Zaman - [rahatzamancse.netlify.app](https://rahatzamancse.netlify.app) <img src="https://raw.githubusercontent.com/rahatzamancse/rahatzamancse/master/images/animated-emoji/wave.gif" width="30px">
+# Rahat Zaman - [rahatzaman.me](https://rahatzaman.me) <img src="https://raw.githubusercontent.com/rahatzamancse/rahatzamancse/master/images/animated-emoji/wave.gif" width="30px">
 
 
 <a href="https://www.linkedin.com/in/rahatzamancse/"><img align="right" height="30" src="https://img.icons8.com/dusk/30/000000/linkedin.png"></a>
@@ -9,10 +9,8 @@
 
 ## TL;DR
 - 🔭 I’m currently a **[Graduate Research Assistant and PhD student at University of Utah](https://sci.utah.edu/people/rahatzamancse.html)**.
-- 🌱 I’m currently learning **Advanced Data Visualization in Deep Learning model Development**.
 - 👯 I’m looking to collaborate on **Data Visualization with Machine Learning**.
 - 💬 Ask me about anything by mail **[rahatzamancse@gmail.com](mailto:rahatzamancse@gmail.com)**.
-- 🤣 Fun fact: I once wanted to be a game developer.
 
 
 <details>
@@ -20,7 +18,7 @@
 <img align="right" src="https://github.com/rahatzamancse/rahatzamancse/workflows/Blog%20Workflow/badge.svg?branch=master">
 <strong>Click here and Peek on the latest 5 blog posts</strong>
 </summary>
-💁🏻 <a href="https://rahatzamancse.netlify.app">rahatzamancse.netlify.app</a>
+💁🏻 <a href="https://rahatzaman.me">rahatzaman.me</a>
 
 <!-- BLOG-POST-LIST:START -->
 - [You Can Make Anything With Rofi](https://rahatzamancse.netlify.app/en/posts/you-can-make-anything-with-rofi/)
