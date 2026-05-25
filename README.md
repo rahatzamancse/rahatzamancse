@@ -8,7 +8,7 @@
 <a href="https://www.facebook.com/rahatzamancse/"><img align="right" height="30" src="https://img.icons8.com/dusk/30/000000/facebook.png"></a>
 
 ## TL;DR
-- 🔭 I’m currently a **[Graduate Research Assistant and PhD student at University of Utah](https://sci.utah.edu/people/rahatzamancse.html)**.
+- 🔭 I’m currently a **[Graduate Research Assistant and PhD student at University of Utah]([https://sci.utah.edu/people/rahatzamancse.html](https://sci.utah.edu/people/md-rahat-uz-zaman/))**.
 - 👯 I’m looking to collaborate on **Data Visualization with Machine Learning**.
 - 💬 Ask me about anything by mail **[rahatzamancse@gmail.com](mailto:rahatzamancse@gmail.com)**.
 
