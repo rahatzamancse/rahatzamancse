@@ -21,11 +21,11 @@
 💁🏻 <a href="https://rahatzaman.me">rahatzaman.me</a>
 
 <!-- BLOG-POST-LIST:START -->
-- [You Can Make Anything With Rofi](https://rahatzamancse.netlify.app/en/posts/you-can-make-anything-with-rofi/)
-- [A Trivial Visualization with Plotly Express](https://rahatzamancse.netlify.app/en/posts/a-trivial-visualization-with-plotly/)
-- [Some Notes About SXHKD](https://rahatzamancse.netlify.app/en/posts/some-notes-about-sxhkd/)
-- [My Polybar Tips and Tricks](https://rahatzamancse.netlify.app/en/posts/my-polybar-tips-and-tricks/)
-- [Switching from VIM to NeoVIM](https://rahatzamancse.netlify.app/en/posts/switching-to-nvim/)
+- [You Can Make Anything With Rofi](https://rahatzaman.me/posts/you-can-make-anything-with-rofi/)
+- [A Trivial Visualization with Plotly Express](https://rahatzaman.me/posts/a-trivial-visualization-with-plotly/)
+- [Some Notes About SXHKD](https://rahatzaman.me/posts/some-notes-about-sxhkd/)
+- [My Polybar Tips and Tricks](https://rahatzaman.me/posts/my-polybar-tips-and-tricks/)
+- [Switching from VIM to NeoVIM](https://rahatzaman.me/posts/switching-to-nvim/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
