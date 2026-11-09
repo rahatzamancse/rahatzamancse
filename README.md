@@ -21,11 +21,11 @@
 💁🏻 <a href="https://rahatzaman.me">rahatzaman.me</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Turn a Bluesky Thread into Your Website&#39;s Comment Section](https://rahatzaman.me/posts/bluesky-comments-on-any-website/)
 - [Site Accessibility Auditor](https://rahatzaman.me/showcase/datavis/accessibility-auditor/)
 - [Blabber](https://rahatzaman.me/showcase/datavis/blabber/)
 - [Vela](https://rahatzaman.me/showcase/datavis/vela/)
 - [AnnoBench](https://rahatzaman.me/showcase/datavis/annobench/)
-- [AnnoGram](https://rahatzaman.me/showcase/datavis/annogram/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
